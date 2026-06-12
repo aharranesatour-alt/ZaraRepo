@@ -1,2 +1,3 @@
 Nom: Zara
 Màgia: Negra
+Afegit Nom i Màgia
